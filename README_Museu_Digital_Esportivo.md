@@ -56,11 +56,11 @@ museu-digital-esportivo/
 ---
 
 ## Requisitos Técnicos
-- **Servidor local:** XAMPP, LocalWP ou similar  
+- **Servidor local:** LocalWP   
 - **CMS:** WordPress 6.x  
 - **Plugin:** Tainacan  
 - **Banco de dados:** MySQL  
-- **Tema:** compatível com Tainacan (ex: Tainacan Interface, Blocksy, Astra)
+- **Tema:** Tainacan Interface
 
 ---
 
