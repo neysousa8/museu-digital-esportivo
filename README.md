@@ -1,2 +1,2 @@
-# museu-digital-esportivo
-Projeto de TCC que cria um museu digital para preservar e divulgar a história do esporte universitário no UDF. Desenvolvido em WordPress com o plugin Tainacan, reúne troféus, fotos e documentos, promovendo acesso público e valorização da memória esportiva institucional.
+# Museu Digital Esportivo
+O Museu Digital Esportivo tem como objetivo preservar e dar visibilidade à história do esporte universitário no UDF, reunindo troféus, fotos, documentos e outros registros em uma plataforma online interativa. O projeto utiliza o WordPress como sistema de gerenciamento de conteúdo (CMS) e o plugin Tainacan como ferramenta para curadoria e exibição de acervos digitais. Assim, promove o acesso público à memória esportiva e valoriza os atletas, equipes e eventos que marcaram a trajetória da instituição.
